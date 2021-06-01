@@ -30,7 +30,7 @@ simplegeneric==0.8.1
 six==1.10.0
 traitlets==4.2.2
 Twisted==16.3.0
-urllib3==1.16
+urllib3==1.26.5
 w3lib==1.14.3
 wcwidth==0.1.7
 zope.interface==4.2.0
